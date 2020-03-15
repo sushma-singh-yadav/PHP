@@ -1,6 +1,4 @@
-<?php
-include 'database.php';
-?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,7 +15,7 @@ include 'database.php';
       <div class="col-md-12">
         <h2>PHP Tutorial</h2>
         <hr>
-        <form method="post" action="indexdb.php">
+        <form method="post" action="#">
           <div class="form-group row">
             <label class="col-md-4">Description</label>
             <div class="col-md-8">
