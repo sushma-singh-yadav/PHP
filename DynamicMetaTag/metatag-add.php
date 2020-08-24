@@ -10,11 +10,8 @@
 <hr>
 <form method="post" action="metatag-adddb.php">
 <div class="form-group">
-<label>Page</label>
+<label>Url</label>
 <input type="text" name="metatag_url" class="form-control">
-<select name="metatag_url" class="form-control">
-	
-</select>
 </div>
 <div class="form-group">
 <label>Title</label>
